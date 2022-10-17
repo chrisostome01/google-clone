@@ -26,6 +26,9 @@ module.exports = {
       fontSize: {
         "vsm": "0.875rem"
       },
+      fontFamily: {
+        "default": "Roboto,Helvetica Neue,Arial,sans-serif"
+      },
       width: {
         "vsm":"1.5rem"
       },

@@ -2,7 +2,3 @@
 @tailwind utilities;
 @tailwind components;
 
-* {
-    font-family: arial,sans-serif;
-}
-
